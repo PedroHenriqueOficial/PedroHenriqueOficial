@@ -2,6 +2,8 @@ name: Metrics
 on:
   schedule: [{cron: "0 0 * * *"}] # Atualiza todo dia à meia-noite
   workflow_dispatch: # Permite que você rode manualmente para testar
+permissions:
+  contents: write
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
