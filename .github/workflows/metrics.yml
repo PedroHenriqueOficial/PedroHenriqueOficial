@@ -19,17 +19,24 @@ jobs:
           config_theme: radical
           config_timezone: America/Sao_Paulo
 
-      # Imagem 2: Somente Linguagens
+      # Imagem 2: Somente Linguagens (Personalizado)
       - uses: lowlighter/metrics@latest
         with:
           filename: github-languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: PedroHenriqueOficial
           template: classic
-          base: "" # Remove o cabeçalho para focar apenas nas linguagens
+          base: "" # Mantém limpo, sem avatar/nome
+          config_theme: radical # Aplica o tema da Foto 2 (Rosa/Ciano)
+          config_timezone: America/Sao_Paulo
+          
+          # Configurações de Linguagens
           plugin_languages: yes
           plugin_languages_details: percentage
           plugin_languages_sections: most-used
           plugin_languages_limit: 8
-          config_theme: radical
-          config_timezone: America/Sao_Paulo
+          
+          # Customizações solicitadas:
+          # 1. Remove o "5 Languages" (Foto 3) substituindo pelo novo título
+          # 2. Define o título com iniciais maiúsculas
+          plugin_languages_title: "Most Used Languages"
