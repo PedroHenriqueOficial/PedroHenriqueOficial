@@ -4,11 +4,12 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+
 jobs:
-  github-metrics:
+  # Job 1: Gera apenas as Estatísticas Gerais
+  github-stats:
     runs-on: ubuntu-latest
     steps:
-      # Imagem 1: Estatísticas Gerais
       - uses: lowlighter/metrics@latest
         with:
           filename: github-stats.svg
@@ -19,23 +20,21 @@ jobs:
           config_theme: radical
           config_timezone: America/Sao_Paulo
 
-# Imagem 2: Linguagens com Visual Radical e Título Limpo
+  # Job 2: Gera apenas as Linguagens (Com suas personalizações)
+  github-languages:
+    runs-on: ubuntu-latest
+    steps:
       - uses: lowlighter/metrics@latest
         with:
           filename: github-languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: PedroHenriqueOficial
-          base: "" # Remove cabeçalho, avatar e informações extras
           template: classic
-          config_theme: radical # Aplica o tema rosa/azul da Foto 2
-          config_timezone: America/Sao_Paulo
-          
-          # Configurações do Plugin de Linguagens
+          base: "" # Remove o cabeçalho e o "5 Languages"
+          config_theme: radical # Aplica o tema Rosa/Azul da Foto 2
           plugin_languages: yes
           plugin_languages_details: percentage
           plugin_languages_sections: most-used
           plugin_languages_limit: 8
-          
-          # Personalização do Título (Resolve Foto 3 e pedido de Negrito)
-          # O parâmetro abaixo substitui o "5 Languages" pelo seu título
-          plugin_languages_title: "Most Used Languages"
+          plugin_languages_title: "Most Used Languages" # Título com Iniciais Maiúsculas
+          config_timezone: America/Sao_Paulo
