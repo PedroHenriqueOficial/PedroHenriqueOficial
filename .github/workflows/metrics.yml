@@ -1,23 +1,35 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}] # Atualiza todo dia à meia-noite
-  workflow_dispatch: # Permite que você rode manualmente para testar
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
 permissions:
   contents: write
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+      # Imagem 1: Estatísticas Gerais
       - uses: lowlighter/metrics@latest
         with:
+          filename: github-stats.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          user: PedroHenriqueOficial # <--- Verifique se este é seu usuário exato
+          user: PedroHenriqueOficial
           template: classic
           base: header, community, repositories, metadata
+          config_theme: radical
           config_timezone: America/Sao_Paulo
-          
-          # Plugin de Linguagens (Visual e Colorido)
+
+      # Imagem 2: Somente Linguagens
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: PedroHenriqueOficial
+          template: classic
+          base: "" # Remove o cabeçalho para focar apenas nas linguagens
           plugin_languages: yes
-          plugin_languages_ignored: html, css # Ignora linguagens simples se quiser
-          plugin_languages_details: bytes-size, percentage
+          plugin_languages_details: percentage
+          plugin_languages_sections: most-used
           plugin_languages_limit: 8
+          config_theme: radical
+          config_timezone: America/Sao_Paulo
