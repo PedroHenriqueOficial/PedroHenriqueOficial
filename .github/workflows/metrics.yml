@@ -1,35 +1,12 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}]
-  workflow_dispatch:
+  schedule: [{cron: "0 0 * * *"}] # Atualiza todo dia à meia-noite
+  workflow_dispatch: # Permite rodar manualmente
 permissions:
   contents: write
 
 jobs:
-  # ===================================================
-  # JOB 1: Estatísticas Gerais (Limpas e focadas)
-  # ===================================================
-  github-stats:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: github-stats.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: PedroHenriqueOficial
-          template: classic
-          # REMOVEMOS 'metadata' da lista abaixo para sumir com a data de criação
-          base: header, community, repositories
-          config_theme: radical
-          config_timezone: America/Sao_Paulo
-          # Tenta deixar o cabeçalho (avatar/bio) menor para focar nos dados
-          config_header_view: compact 
-
-  # ===================================================
-  # JOB 2: Linguagens (Visual da Foto 2 + Título Certo)
-  # ===================================================
   github-languages:
-    needs: github-stats # Espera o Job 1 terminar para evitar conflitos
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
@@ -38,14 +15,13 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: PedroHenriqueOficial
           template: classic
-          base: "" # Remove cabeçalho e o "5 Languages"
-          config_theme: radical # Aplica o tema da sua referência
+          base: "" # Remove o cabeçalho e estatísticas gerais
+          config_theme: radical
           config_timezone: America/Sao_Paulo
           
-          # Configurações do Plugin
+          # Configurações de Linguagens
           plugin_languages: yes
           plugin_languages_details: percentage
           plugin_languages_sections: most-used
           plugin_languages_limit: 8
-          # O Título personalizado que substitui o contador
           plugin_languages_title: "Most Used Languages"
