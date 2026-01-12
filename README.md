@@ -3,7 +3,7 @@
     src = "https://capsule-render.vercel.app/api?type=waving&color=3dcf96&height=120&section=header"
 />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Crimson+Text&pause=1000&color=3DCF96&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;My+name+is+Pedro+Henrique!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Crimson+Text&pause=1000&color=3DCF96&size=35&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;My+name+is+Pedro+Henrique!)](https://git.io/typing-svg)
 
 I earned a **Technical Degree in Logistics from IFES** and am currently pursuing a degree in **Electrical Engineering at UFES**. My technical foundation began with **C**, evolving to **Object-Oriented Programming (OOP) with Java** and experience in **hardware-level programming**.
 
@@ -45,6 +45,25 @@ In the mobile development space, I started with **iOS development using Swift** 
     width="45%" 
     />
 </p>
+
+## 💻 Programming languages
+
+#### 📱 Mobile Development
+
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54411?style=for-the-badge&logo=swift&logoColor=white)
+
+#### 💻 General Purpose
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+## ⚙️ Hardware-Level Programming
+
+![VHDL](https://img.shields.io/badge/VHDL-%23004481.svg?style=for-the-badge&logo=intel&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-%232EAD0E.svg?style=for-the-badge&logo=arm&logoColor=white)
 
 <img 
     width = 100%
