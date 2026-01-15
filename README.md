@@ -53,17 +53,60 @@ In the mobile development space, I started with **iOS development using Swift** 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54411?style=for-the-badge&logo=swift&logoColor=white)
 
-#### 💻 General Purpose
+#### 🌐 Web Development
+
+![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### 🧰 General Purpose
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 
 ## ⚙️ Hardware-Level Programming
 
 ![VHDL](https://img.shields.io/badge/VHDL-%23004481.svg?style=for-the-badge&logo=intel&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-%232EAD0E.svg?style=for-the-badge&logo=arm&logoColor=white)
+
+## 🛠️ Tools
+
+#### 📱 Mobile Development
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+
+#### 📡 IoT & Embedded Systems
+
+![IoT](https://img.shields.io/badge/IoT-150458?style=for-the-badge&logo=smartthings&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+
+#### 🖥️ IDEs & Editors
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=xcode&logoColor=white&style=for-the-badge)
+![Android](https://img.shields.io/badge/Android%20studio-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+#### 📐 Engineering & Drafting
+
+![AutoCAD](https://img.shields.io/badge/AutoCAD-%23E2231A.svg?style=for-the-badge&logo=autocad&logoColor=white)
+
+#### 🤖 Machine Learning & Data Science
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+#### 📝 Documentation & Research
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
+![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
+
+#### 🎨 Design
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 <img 
     width = 100%
