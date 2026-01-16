@@ -136,7 +136,7 @@ In the mobile development space, I started with **iOS development using Swift** 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
 <img 
-    src="https://raw.githubusercontent.com/PedroHenriqueOficial/PedroHenriqueOficial/output/snake.svg" 
+    src="https://raw.githubusercontent.com/PedroHenriqueOficial/PedroHenriqueOficial/output/github-contribution-grid-snake.svg" 
     alt="Snake animation" 
 />
 
