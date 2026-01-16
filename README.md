@@ -124,3 +124,15 @@ In the mobile development space, I started with **iOS development using Swift** 
     width = 100%
     src="https://capsule-render.vercel.app/api?type=waving&color=3dcf96&reversal=false&height=120&section=footer"
 />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroHenriqueOficial/PedroHenriqueOficial/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroHenriqueOficial/PedroHenriqueOficial/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PedroHenriqueOficial/PedroHenriqueOficial/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/PedroHenriqueOficial/PedroHenriqueOficial/output/snake.svg" alt="Snake animation" />
+
+###
