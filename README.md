@@ -5,6 +5,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Crimson+Text&pause=1000&color=3DCF96&size=35&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;My+name+is+Pedro+Henrique!)](https://git.io/typing-svg)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroHenriqueOficial/PedroHenriqueOficial/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroHenriqueOficial/PedroHenriqueOficial/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PedroHenriqueOficial/PedroHenriqueOficial/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 I earned a **Technical Degree in Logistics from IFES** and am currently pursuing a degree in **Electrical Engineering at UFES**. My technical foundation began with **C**, evolving to **Object-Oriented Programming (OOP) with Java** and experience in **hardware-level programming**.
 
 In the mobile development space, I started with **iOS development using Swift** and have since transitioned to **Android with Kotlin**. I am passionate about **Front-end and UI Design**, prioritizing user experience and interface aesthetics. As an Electrical Engineering student, I have hands-on experience with **low-level languages** and **Internet of Things (IoT)** projects.
@@ -120,24 +128,11 @@ In the mobile development space, I started with **iOS development using Swift** 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
+<img src="https://raw.githubusercontent.com/PedroHenriqueOficial/PedroHenriqueOficial/output/snake.svg" alt="Snake animation" />
+
+###
+
 <img 
     width = 100%
     src="https://capsule-render.vercel.app/api?type=waving&color=3dcf96&reversal=false&height=120&section=footer"
 />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroHenriqueOficial/PedroHenriqueOficial/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroHenriqueOficial/PedroHenriqueOficial/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PedroHenriqueOficial/PedroHenriqueOficial/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/PedroHenriqueOficial/PedroHenriqueOficial/output/snake.svg" alt="Snake animation" />
-
-###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroHenriqueOficial/PedroHenriqueOficial/output/pacman-contribution-graph.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroHenriqueOficial/PedroHenriqueOficial/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PedroHenriqueOficial/PedroHenriqueOficial/output/pacman-contribution-graph.svg">
-</picture>
