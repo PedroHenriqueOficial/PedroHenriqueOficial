@@ -66,7 +66,6 @@ In the mobile development space, I started with **iOS development using Swift** 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-
 ## ⚙️ Hardware-Level Programming
 
 ![VHDL](https://img.shields.io/badge/VHDL-%23004481.svg?style=for-the-badge&logo=intel&logoColor=white)
@@ -81,8 +80,8 @@ In the mobile development space, I started with **iOS development using Swift** 
 
 #### 📡 IoT & Embedded Systems
 
-![IoT](https://img.shields.io/badge/IoT-150458?style=for-the-badge&logo=smartthings&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+![IoT](https://img.shields.io/badge/IoT-150458?style=for-the-badge&logo=smartthings&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 #### 🖥️ IDEs & Editors
@@ -107,6 +106,19 @@ In the mobile development space, I started with **iOS development using Swift** 
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+## 💡 Featured repositories
+
+- [Pokemon APP](https://github.com/PedroHenriqueOficial/Aplicativo-sobre-Pokemons)
+- [Weather APP](https://github.com/PedroHenriqueOficial/Aplicativo-sobre-o-clima)
+- [Electrical circuit simulator](https://github.com/PedroHenriqueOficial/Simulador-de-Circuitos-Eletricos)
+- [Electromagnetic phenomena simulator](https://github.com/PedroHenriqueOficial/Simulador-de-Fen-menos-Eletromagn-ticos)
+- [Northern Lights Simulator](https://github.com/PedroHenriqueOficial/Simulador-de-Fen-menos-da-Natureza-das-Leis-de-Maxwell)
+
+## 📧 Contacts
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
 <img 
     width = 100%
