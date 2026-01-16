@@ -6,9 +6,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Crimson+Text&pause=1000&color=3DCF96&size=35&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;My+name+is+Pedro+Henrique!)](https://git.io/typing-svg)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroHenriqueOficial/PedroHenriqueOficial/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroHenriqueOficial/PedroHenriqueOficial/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PedroHenriqueOficial/PedroHenriqueOficial/output/pacman-contribution-graph.svg">
+  <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://raw.githubusercontent.com/PedroHenriqueOficial/PedroHenriqueOficial/output/pacman-contribution-graph-dark.svg">
+  <source 
+        media="(prefers-color-scheme: light)" 
+        srcset="https://raw.githubusercontent.com/PedroHenriqueOficial/PedroHenriqueOficial/output/pacman-contribution-graph.svg">
+  <img 
+    alt="pacman contribution graph" 
+    src="https://raw.githubusercontent.com/PedroHenriqueOficial/PedroHenriqueOficial/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
@@ -88,15 +94,16 @@ In the mobile development space, I started with **iOS development using Swift** 
 
 #### 📡 IoT & Embedded Systems
 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![IoT](https://img.shields.io/badge/IoT-150458?style=for-the-badge&logo=smartthings&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 #### 🖥️ IDEs & Editors
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=xcode&logoColor=white&style=for-the-badge)
 ![Android](https://img.shields.io/badge/Android%20studio-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge) 
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=xcode&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 #### 📐 Engineering & Drafting
 
@@ -128,7 +135,10 @@ In the mobile development space, I started with **iOS development using Swift** 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
-<img src="https://raw.githubusercontent.com/PedroHenriqueOficial/PedroHenriqueOficial/output/snake.svg" alt="Snake animation" />
+<img 
+    src="https://raw.githubusercontent.com/PedroHenriqueOficial/PedroHenriqueOficial/output/snake.svg" 
+    alt="Snake animation" 
+/>
 
 ###
 
