@@ -91,6 +91,7 @@ In the mobile development space, I started with **iOS development using Swift** 
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
 #### 📡 IoT & Embedded Systems
 
@@ -108,10 +109,6 @@ In the mobile development space, I started with **iOS development using Swift** 
 #### 📐 Engineering & Drafting
 
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-%23E2231A.svg?style=for-the-badge&logo=autocad&logoColor=white)
-
-#### 🤖 Machine Learning & Data Science
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 #### 📝 Documentation & Research
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
