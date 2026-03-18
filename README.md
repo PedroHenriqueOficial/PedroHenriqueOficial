@@ -51,14 +51,10 @@ In the mobile development space, I started with **iOS development using Swift** 
 
 ## 📊 Statistics
 
-<p align="center">
-  <img 
-    alt="Most Used Languages" 
-    title="Most Used Languages"
-    src="./github-languages.svg" 
-    width="45%" 
-    />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueOficial&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueOficial&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 ## 💻 Programming languages
 
