@@ -117,11 +117,11 @@ In the mobile development space, I started with **iOS development using Swift** 
 
 ## 💡 Featured repositories
 
+- [Clogging Prediction in Industrial Valves Using Deep RNN](https://github.com/PedroHenriqueOficial/Previsao-de-Entupimento-em-Valvulas-Industriais-Usando-Deep_RNN)
 - [Pokemon APP](https://github.com/PedroHenriqueOficial/Aplicativo-sobre-Pokemons)
 - [Weather APP](https://github.com/PedroHenriqueOficial/Aplicativo-sobre-o-clima)
 - [Electrical circuit simulator](https://github.com/PedroHenriqueOficial/Simulador-de-Circuitos-Eletricos)
 - [Electromagnetic phenomena simulator](https://github.com/PedroHenriqueOficial/Simulador-de-Fen-menos-Eletromagn-ticos)
-- [Northern Lights Simulator](https://github.com/PedroHenriqueOficial/Simulador-de-Fen-menos-da-Natureza-das-Leis-de-Maxwell)
 
 ## 📧 Contacts
 
